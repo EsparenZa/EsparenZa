@@ -2,21 +2,11 @@
 
 I'm **Akanksha**!  
 🔹 Frontend Developer (React.js, Next.js, TypeScript, JavaScript)  
-🔹 Learning Backend (Node.js, Express, MongoDB, Docker)  
-🔹 Passionate about building scalable, user-friendly web apps  
+🔹 Backend (Node.js, Express, MongoDB, Docker)   
 
 ### 💻 Tech Stack:  
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, TailwindCSS  
-- **Backend (Learning):** Node.js, Express, MongoDB  
-- **Tools & DevOps:** Docker, Git, Postman, Vercel  
-
-### 📌 Currently Working On:  
-- A full-stack project to solidify my backend skills  
-- Learning Angular to expand my frontend expertise  
-
-### 🎯 Next Goals:  
-- Build a production-ready MERN stack app  
-- Contribute to open source  
+- **Backend:** Node.js, Express, MongoDB  
 
 ### 📬 Connect with Me:  
 <p align="left">
